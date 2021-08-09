@@ -2,7 +2,7 @@
 
 ## Bucket S3
 
-Acessar o S3, criar um bucket com a seguinte estrutura de pastas e realizar o upload do arquivo _sherlock.txt_ para a data temp:
+Acessar o S3, criar um bucket com a seguinte estrutura de pastas e realizar o upload do arquivo _sherlock.txt_ para o diretório data:
 
 ```
 |_ data/
